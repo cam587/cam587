@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Colin Mendoza</h1>
 <h3 align="center">Information Science Student at Cornell University, passionate about driving data-informed decision-making and optimizing business performance.</h3>
 
-- 🔭 I’m currently working on a **New York Knicks Analytics Dashboard with Automated Data Refresh**
+- 🔭 I’m currently working on a **Credit Card Analysis**
 
-- 🌱 I’m currently learning **Machine Learning Basics**
+- 🌱 I’m currently learning **Business Intelligence & Data Analytics**
 
 - 📫 How to reach me **cam587@cornell.edu**
 
